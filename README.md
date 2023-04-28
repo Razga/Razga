@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there👋, my web3 name is ZER8🧠 and I'm full time working in web3 since 2020. I'm currently a Gitcoin Steward, contributor to 1Hive and ODC volunteer
 
 - 🔭 I’m currently working on defending public goods via the ODC
 - 🌱 I’m currently learning how to build the best Grant Review Dashboard in web3
